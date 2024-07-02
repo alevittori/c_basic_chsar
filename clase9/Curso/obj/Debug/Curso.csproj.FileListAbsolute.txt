@@ -1,0 +1,7 @@
+D:\Platzy-ofice\c_basic_chsar\clase9\Curso\bin\Debug\Curso.exe.config
+D:\Platzy-ofice\c_basic_chsar\clase9\Curso\bin\Debug\Curso.exe
+D:\Platzy-ofice\c_basic_chsar\clase9\Curso\bin\Debug\Curso.pdb
+D:\Platzy-ofice\c_basic_chsar\clase9\Curso\obj\Debug\Curso.csproj.AssemblyReference.cache
+D:\Platzy-ofice\c_basic_chsar\clase9\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+D:\Platzy-ofice\c_basic_chsar\clase9\Curso\obj\Debug\Curso.exe
+D:\Platzy-ofice\c_basic_chsar\clase9\Curso\obj\Debug\Curso.pdb
